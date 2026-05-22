@@ -1,0 +1,121 @@
+student_id,student_name,topic,question_id,is_correct,time_taken_seconds
+1,Tharun,Python,1,1,22
+1,Tharun,Machine Learning,15,1,38
+1,Tharun,SQL,30,0,74
+1,Tharun,Backend,45,1,41
+1,Tharun,Cloud,60,1,36
+2,Sai,Python,2,1,25
+2,Sai,Machine Learning,16,0,82
+2,Sai,SQL,31,1,29
+2,Sai,Backend,46,1,44
+2,Sai,DevOps,70,0,91
+3,Nithish,Python,3,1,21
+3,Nithish,Machine Learning,17,1,40
+3,Nithish,SQL,32,1,31
+3,Nithish,Frontend,80,1,37
+3,Nithish,AI,95,0,88
+4,Rahul,Python,4,0,79
+4,Rahul,Machine Learning,18,1,43
+4,Rahul,SQL,33,1,34
+4,Rahul,Backend,47,0,84
+4,Rahul,Cloud,61,1,39
+5,Priya,Python,5,1,24
+5,Priya,Machine Learning,19,1,41
+5,Priya,SQL,34,0,92
+5,Priya,Frontend,81,1,36
+5,Priya,AI,96,1,47
+6,Ananya,Python,6,1,27
+6,Ananya,Machine Learning,20,0,85
+6,Ananya,SQL,35,1,32
+6,Ananya,DevOps,71,1,49
+6,Ananya,Cloud,62,1,38
+7,Vikram,Python,7,1,23
+7,Vikram,Machine Learning,21,1,44
+7,Vikram,SQL,36,1,33
+7,Vikram,Backend,48,1,42
+7,Vikram,AI,97,0,95
+8,Arjun,Python,8,0,76
+8,Arjun,Machine Learning,22,1,46
+8,Arjun,SQL,37,1,35
+8,Arjun,Frontend,82,1,39
+8,Arjun,Cloud,63,0,87
+9,Meera,Python,9,1,20
+9,Meera,Machine Learning,23,1,42
+9,Meera,SQL,38,1,30
+9,Meera,DevOps,72,1,50
+9,Meera,AI,98,1,48
+10,Kiran,Python,10,1,26
+10,Kiran,Machine Learning,24,0,90
+10,Kiran,SQL,39,1,28
+10,Kiran,Backend,49,0,86
+10,Kiran,Cloud,64,1,37
+11,Akhil,Python,11,1,24
+11,Akhil,Machine Learning,25,1,45
+11,Akhil,SQL,40,1,32
+11,Akhil,Frontend,83,1,41
+11,Akhil,AI,99,0,89
+12,Sneha,Python,12,0,81
+12,Sneha,Machine Learning,26,1,39
+12,Sneha,SQL,41,1,31
+12,Sneha,Backend,50,1,43
+12,Sneha,Cloud,65,1,35
+13,Rohit,Python,13,1,22
+13,Rohit,Machine Learning,27,0,84
+13,Rohit,SQL,42,1,29
+13,Rohit,DevOps,73,1,52
+13,Rohit,AI,100,1,46
+14,Divya,Python,14,1,25
+14,Divya,Machine Learning,28,1,40
+14,Divya,SQL,43,0,93
+14,Divya,Frontend,84,1,38
+14,Divya,Cloud,66,1,36
+15,Harsha,Python,15,1,21
+15,Harsha,Machine Learning,29,1,43
+15,Harsha,SQL,44,1,30
+15,Harsha,Backend,51,1,40
+15,Harsha,AI,101,0,91
+1,Tharun,DevOps,74,1,48
+2,Sai,Cloud,67,1,34
+3,Nithish,Backend,52,1,39
+4,Rahul,Frontend,85,1,35
+5,Priya,Cloud,68,1,37
+6,Ananya,AI,102,0,90
+7,Vikram,DevOps,75,1,46
+8,Arjun,Backend,53,0,88
+9,Meera,Frontend,86,1,34
+10,Kiran,AI,103,1,49
+11,Akhil,DevOps,76,1,45
+12,Sneha,Frontend,87,1,36
+13,Rohit,Cloud,69,0,92
+14,Divya,Backend,54,1,40
+15,Harsha,DevOps,77,1,47
+1,Tharun,Frontend,88,1,35
+2,Sai,AI,104,0,94
+3,Nithish,Cloud,70,1,38
+4,Rahul,DevOps,78,1,44
+5,Priya,Backend,55,1,41
+6,Ananya,Frontend,89,1,37
+7,Vikram,Cloud,71,0,86
+8,Arjun,AI,105,1,50
+9,Meera,Backend,56,1,39
+10,Kiran,DevOps,79,1,46
+11,Akhil,Cloud,72,1,33
+12,Sneha,AI,106,0,95
+13,Rohit,Frontend,90,1,36
+14,Divya,DevOps,80,1,47
+15,Harsha,Cloud,73,1,35
+1,Tharun,AI,107,1,48
+2,Sai,Frontend,91,1,37
+3,Nithish,DevOps,81,0,89
+4,Rahul,Cloud,74,1,36
+5,Priya,AI,108,1,45
+6,Ananya,Backend,57,1,40
+7,Vikram,Frontend,92,1,34
+8,Arjun,DevOps,82,1,49
+9,Meera,Cloud,75,0,87
+10,Kiran,Frontend,93,1,35
+11,Akhil,AI,109,1,44
+12,Sneha,DevOps,83,1,46
+13,Rohit,Backend,58,0,90
+14,Divya,AI,110,1,47
+15,Harsha,Frontend,94,1,36

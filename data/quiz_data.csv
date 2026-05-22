@@ -1,0 +1,237 @@
+question,topic,correct_answer,difficulty
+What is Python?,Python,Programming language,Easy
+What is a variable in Python?,Python,Stores data,Easy
+What is a list in Python?,Python,Collection of items,Easy
+What is a tuple in Python?,Python,Immutable collection,Easy
+What is a dictionary in Python?,Python,Key value pairs,Easy
+What does len() do?,Python,Returns length,Easy
+What is a loop?,Python,Repeats code,Easy
+What is a function?,Python,Reusable block of code,Easy
+What is inheritance?,Python,OOP concept,Medium
+What is polymorphism?,Python,Multiple method forms,Medium
+What is encapsulation?,Python,Data hiding,Medium
+What is abstraction?,Python,Hides implementation,Medium
+What is multithreading?,Python,Concurrent execution,Hard
+Explain Python memory management.,Python,Garbage collection,Hard
+What is supervised learning?,Machine Learning,Labeled learning,Easy
+What is unsupervised learning?,Machine Learning,Unlabeled learning,Easy
+What is classification?,Machine Learning,Predicting categories,Easy
+What is regression?,Machine Learning,Predicting values,Easy
+What is clustering?,Machine Learning,Grouping data,Easy
+What is overfitting?,Machine Learning,Poor generalization,Medium
+What is underfitting?,Machine Learning,Model too simple,Medium
+What is feature engineering?,Machine Learning,Creating features,Medium
+What is cross validation?,Machine Learning,Model evaluation,Medium
+What is gradient descent?,Machine Learning,Optimization algorithm,Hard
+Explain bias variance tradeoff.,Machine Learning,Model complexity balance,Hard
+What is normalization?,Data Science,Scaling data,Easy
+What is data cleaning?,Data Science,Removing errors,Easy
+What is EDA?,Data Science,Exploratory analysis,Easy
+What is missing value handling?,Data Science,Handling nulls,Easy
+What is feature scaling?,Data Science,Standardizing features,Medium
+What is data visualization?,Data Science,Visual representation,Easy
+What is a histogram?,Data Science,Distribution chart,Easy
+What is correlation?,Data Science,Relationship measure,Medium
+What is outlier detection?,Data Science,Finding anomalies,Medium
+What is SQL?,SQL,Database language,Easy
+What is a table?,SQL,Stores data,Easy
+What is a row?,SQL,Single record,Easy
+What is a column?,SQL,Field in table,Easy
+What does SELECT do?,SQL,Retrieves data,Easy
+What does INSERT do?,SQL,Adds records,Easy
+What does UPDATE do?,SQL,Modifies records,Easy
+What does DELETE do?,SQL,Removes records,Easy
+What is a primary key?,SQL,Unique identifier,Easy
+What is a foreign key?,SQL,Table reference,Easy
+What is a JOIN?,SQL,Combines tables,Medium
+What is normalization?,SQL,Reduces redundancy,Medium
+What is indexing?,SQL,Improves speed,Medium
+Explain ACID properties.,SQL,Database consistency,Hard
+What is REST API?,Backend,HTTP API,Easy
+What is authentication?,Backend,Identity verification,Easy
+What is authorization?,Backend,Access control,Easy
+What is JWT?,Backend,Token authentication,Medium
+What is middleware?,Backend,Request processing layer,Medium
+What is microservices architecture?,Backend,Distributed services,Hard
+What is Docker?,DevOps,Container platform,Easy
+What is Kubernetes?,DevOps,Container orchestration,Medium
+What is CI/CD?,DevOps,Deployment automation,Medium
+What is Infrastructure as Code?,DevOps,Infrastructure automation,Hard
+What is AWS Lambda?,Cloud,Serverless compute,Easy
+What is DynamoDB?,Cloud,NoSQL database,Easy
+What is S3?,Cloud,Object storage,Easy
+What is API Gateway?,Cloud,API management,Medium
+What is auto scaling?,Cloud,Automatic scaling,Hard
+What is React?,Frontend,JavaScript library,Easy
+What is JSX?,Frontend,JavaScript XML,Easy
+What is a component?,Frontend,Reusable UI block,Easy
+What is state in React?,Frontend,Dynamic data,Medium
+What are hooks in React?,Frontend,Functional utilities,Medium
+What is virtual DOM?,Frontend,Optimized rendering,Hard
+What is TensorFlow?,AI,Deep learning framework,Easy
+What is Keras?,AI,Neural network API,Easy
+What is a neural network?,AI,Connected learning nodes,Medium
+What is deep learning?,AI,Multi-layer learning,Medium
+What is CNN?,AI,Image processing network,Hard
+What is NLP?,AI,Language processing,Medium
+What is OpenAI API?,AI,AI service API,Easy
+What is prompt engineering?,AI,Designing prompts,Medium
+What is fine tuning?,AI,Custom model training,Hard
+What is Git?,Tools,Version control system,Easy
+What is GitHub?,Tools,Code hosting platform,Easy
+What is branching?,Tools,Separate development line,Medium
+What is merging?,Tools,Combining code,Medium
+What is a pull request?,Tools,Code review request,Easy
+What is agile methodology?,Software Engineering,Iterative development,Easy
+What is scrum?,Software Engineering,Agile framework,Easy
+What is sprint planning?,Software Engineering,Task scheduling,Medium
+What is software testing?,Software Engineering,Code validation,Easy
+What is unit testing?,Software Engineering,Testing small units,Medium
+What is Selenium?,Testing,Automation testing tool,Easy
+What is pytest?,Testing,Python testing framework,Easy
+What is API testing?,Testing,Testing endpoints,Medium
+What is load testing?,Testing,Performance evaluation,Hard
+What is a Linux shell?,Linux,Command interface,Easy
+What is bash scripting?,Linux,Shell automation,Medium
+What is chmod?,Linux,Permission command,Easy
+What is cron job?,Linux,Scheduled task,Medium
+What is virtualization?,Systems,Virtual machine concept,Medium
+What is operating system?,Systems,System manager,Easy
+What is RAM?,Systems,Temporary memory,Easy
+What is CPU?,Systems,Processing unit,Easy
+What is threading?,Systems,Concurrent execution,Medium
+What is distributed computing?,Systems,Multi-system computation,Hard
+How do you create a class in Python?,Python,Using class keyword,Easy
+What is __init__ in Python?,Python,Constructor method,Easy
+What is list comprehension?,Python,Compact list creation,Medium
+What is exception handling?,Python,Handling runtime errors,Medium
+What is a lambda function?,Python,Anonymous function,Medium
+What is recursion?,Python,Function calling itself,Medium
+What is a generator in Python?,Python,Lazy iterator,Hard
+What is the GIL in Python?,Python,Global Interpreter Lock,Hard
+What is monkey patching?,Python,Runtime modification,Hard
+How do decorators work in Python?,Python,Wrap functions dynamically,Hard
+What is transfer learning?,Machine Learning,Reuse pretrained model,Medium
+What is reinforcement learning?,Machine Learning,Reward based learning,Medium
+What is dimensionality reduction?,Machine Learning,Reduce features,Medium
+What is PCA?,Machine Learning,Principal component analysis,Medium
+What is random forest?,Machine Learning,Ensemble decision trees,Medium
+What is XGBoost?,Machine Learning,Boosting algorithm,Hard
+What is ROC-AUC?,Machine Learning,Classification metric,Hard
+What is precision in ML?,Machine Learning,Positive prediction accuracy,Easy
+What is recall in ML?,Machine Learning,True positive coverage,Easy
+What is F1-score?,Machine Learning,Harmonic precision recall,Medium
+What is data wrangling?,Data Science,Transforming raw data,Medium
+What is feature selection?,Data Science,Choosing important features,Medium
+What is one-hot encoding?,Data Science,Categorical transformation,Medium
+What is skewness?,Data Science,Distribution asymmetry,Medium
+What is kurtosis?,Data Science,Distribution sharpness,Hard
+What is time series analysis?,Data Science,Temporal pattern analysis,Hard
+What is ETL?,Data Engineering,Extract transform load,Medium
+What is data pipeline?,Data Engineering,Automated data flow,Medium
+What is Apache Spark?,Data Engineering,Distributed processing engine,Hard
+What is Hadoop?,Data Engineering,Big data framework,Hard
+What is a subquery?,SQL,Nested query,Medium
+What is GROUP BY?,SQL,Aggregation grouping,Easy
+What is HAVING clause?,SQL,Filter grouped data,Medium
+What is UNION in SQL?,SQL,Combine query results,Medium
+What is a stored procedure?,SQL,Reusable SQL program,Hard
+What is a trigger in SQL?,SQL,Automatic database action,Hard
+What is database sharding?,SQL,Split database horizontally,Hard
+What is denormalization?,SQL,Adding redundancy intentionally,Hard
+What is CAP theorem?,SQL,Distributed database principle,Hard
+What is ORM?,Backend,Object relational mapping,Medium
+What is rate limiting?,Backend,Restrict request frequency,Medium
+What is caching?,Backend,Temporary data storage,Medium
+What is Redis?,Backend,In-memory database,Medium
+What is GraphQL?,Backend,Flexible query language,Hard
+What is WebSocket?,Backend,Real-time communication protocol,Hard
+What is load balancing?,Backend,Traffic distribution,Hard
+What is idempotency?,Backend,Safe repeated requests,Hard
+What is OAuth?,Backend,Authorization framework,Hard
+What is session management?,Backend,User session handling,Medium
+What is Helm in Kubernetes?,DevOps,Kubernetes package manager,Medium
+What is Terraform?,DevOps,Infrastructure provisioning tool,Medium
+What is Jenkins?,DevOps,Automation server,Medium
+What is Ansible?,DevOps,Configuration management tool,Medium
+What is blue-green deployment?,DevOps,Zero downtime deployment,Hard
+What is canary deployment?,DevOps,Gradual release strategy,Hard
+What is observability?,DevOps,System visibility,Hard
+What is Prometheus?,DevOps,Monitoring system,Medium
+What is Grafana?,DevOps,Visualization dashboard,Medium
+What is incident management?,DevOps,Handling production failures,Hard
+What is EC2?,Cloud,Virtual server service,Easy
+What is cloud computing?,Cloud,On-demand computing,Easy
+What is serverless architecture?,Cloud,No server management,Medium
+What is CDN?,Cloud,Content delivery network,Medium
+What is VPC?,Cloud,Virtual private cloud,Medium
+What is IAM?,Cloud,Access management service,Medium
+What is cloud migration?,Cloud,Moving systems to cloud,Hard
+What is multi-cloud architecture?,Cloud,Using multiple cloud providers,Hard
+What is fault tolerance?,Cloud,System resilience,Hard
+What is disaster recovery?,Cloud,System restoration planning,Hard
+What is React Router?,Frontend,Navigation library,Easy
+What is useEffect hook?,Frontend,Side effect management,Medium
+What is useState hook?,Frontend,State management hook,Easy
+What is Redux?,Frontend,State management library,Medium
+What is responsive design?,Frontend,Adaptive UI design,Easy
+What is lazy loading?,Frontend,Load on demand,Medium
+What is SSR?,Frontend,Server-side rendering,Hard
+What is hydration in React?,Frontend,Attach JS to HTML,Hard
+What is code splitting?,Frontend,Split bundles dynamically,Hard
+What is memoization?,Frontend,Cache computed results,Hard
+What is generative AI?,AI,Content generation AI,Easy
+What is a transformer model?,AI,Attention-based architecture,Medium
+What is GPT?,AI,Generative pretrained transformer,Medium
+What is tokenization?,AI,Text splitting process,Medium
+What is embedding?,AI,Vector representation,Medium
+What is hallucination in AI?,AI,Incorrect generated output,Hard
+What is RAG architecture?,AI,Retrieval augmented generation,Hard
+What is vector database?,AI,Embedding storage system,Hard
+What is LangChain?,AI,LLM orchestration framework,Hard
+What is model quantization?,AI,Reduce model size,Hard
+What is semantic search?,AI,Meaning-based retrieval,Medium
+What is cosine similarity?,AI,Vector similarity metric,Medium
+What is fine-tuning an LLM?,AI,Customizing pretrained LLM,Hard
+What is prompt chaining?,AI,Multi-step prompting,Hard
+What is AI inference?,AI,Model prediction process,Medium
+What is Git stash?,Tools,Temporary code storage,Medium
+What is Git rebase?,Tools,Rewrite commit history,Hard
+What is cherry-picking in Git?,Tools,Select commits,Hard
+What is semantic versioning?,Tools,Version naming convention,Medium
+What is package management?,Tools,Dependency handling,Medium
+What is npm?,Tools,Node package manager,Easy
+What is pip?,Tools,Python package installer,Easy
+What is virtual environment?,Tools,Isolated Python environment,Easy
+What is Docker Compose?,Tools,Multi-container orchestration,Medium
+What is Makefile?,Tools,Build automation file,Medium
+What is waterfall model?,Software Engineering,Sequential development model,Easy
+What is technical debt?,Software Engineering,Future maintenance burden,Medium
+What is pair programming?,Software Engineering,Two developer collaboration,Easy
+What is code review?,Software Engineering,Reviewing code quality,Easy
+What is refactoring?,Software Engineering,Improving existing code,Medium
+What is SOLID principle?,Software Engineering,OOP design principles,Hard
+What is dependency injection?,Software Engineering,External dependency management,Hard
+What is clean architecture?,Software Engineering,Layered system design,Hard
+What is TDD?,Software Engineering,Test driven development,Medium
+What is scalability?,Software Engineering,System growth handling,Hard
+What is smoke testing?,Testing,Basic functionality testing,Easy
+What is regression testing?,Testing,Prevent old bugs,Medium
+What is integration testing?,Testing,Testing combined modules,Medium
+What is mocking?,Testing,Fake dependency simulation,Medium
+What is stress testing?,Testing,System overload testing,Hard
+What is security testing?,Testing,Testing vulnerabilities,Hard
+What is penetration testing?,Testing,Simulated cyber attack,Hard
+What is usability testing?,Testing,User experience testing,Easy
+What is snapshot testing?,Testing,UI consistency testing,Medium
+What is flaky test?,Testing,Unstable automated test,Hard
+What is grep in Linux?,Linux,Search text command,Easy
+What is awk?,Linux,Pattern scanning tool,Medium
+What is sed?,Linux,Stream editor,Medium
+What is process management?,Linux,Managing running processes,Medium
+What is top command?,Linux,System monitoring command,Easy
+What is SSH?,Linux,Secure remote access,Easy
+What is symbolic link?,Linux,Reference shortcut file,Medium
+What is kernel panic?,Linux,System crash state,Hard
+What is daemon process?,Linux,Background service process,Hard
+What is swap memory?,Linux,Disk-based memory extension,Medium
